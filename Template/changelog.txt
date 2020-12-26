@@ -1,0 +1,7 @@
+ - updated to angular 10
+ - upgrade all third-party modules
+ - update 'fullcalendar' structure
+ - update 'e-chart' module structure 
+ - import sweetalert2 css to third-party module scss
+ - remove nvd3 charts
+ - add allowedCommonJsDependencies in angular.json file.
